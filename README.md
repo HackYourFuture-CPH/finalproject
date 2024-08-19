@@ -6,6 +6,8 @@ This module usually runs for 4-5 weeks.
 The final project is organised differently for each team, depending on the team responsible, mentors and the opportunities available at the time for e.g. working with a real client. Find examples of previous final projects below.
 
 ## Learning Goals
+- [ ] (Add some here to set clear goals/outcomes/expectations)
+
 
 ## Examples of previous final projects
 ### Team 27 (Aarhus)
