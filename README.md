@@ -3,7 +3,9 @@ This repository contains information about the final module of the program, wher
 
 This module usually runs for 4-5 weeks.
 
-The final project is organised differently for each team, depending on the team responsible, mentors and the opportunities available at the time for e.g. working with a real client. Find examples of previous final projects below.
+The final project is organised differently for each team, depending on the team responsible, mentors and the opportunities available at the time. The options could include:
+1. Mentor-designed projects and built using [HYF Project Template](https://github.com/HackYourFuture-CPH/hyf-project-template)
+2. Client-driven projects designed in collaboration with a real client partner, built using their own template.
 
 ## Learning Goals
 - [ ] (Add some here to set clear goals/outcomes/expectations)
