@@ -10,4 +10,4 @@ The final project is organised differently for each team, depending on the team 
 ## Examples of previous final projects
 ### Team 27 (Aarhus)
 They had the opportunity to work with two real clients. So the team was split into two 7 person teams, and worked together on these proposals:
-1. Atomic Learning Systems - Intro, Proposal, [Finished Project](https://atomic-learning-systems-hackyourfuture.onrender.com/)
+1. Atomic Learning Systems - [Intro](https://github.com/HackYourFuture-CPH/finalproject/blob/readme/Example%20projects/Atomic%20Learning%20Systems%20Company%20Document.pdf), [Proposal](https://github.com/HackYourFuture-CPH/finalproject/blob/readme/Example%20projects/Final%20project%20guide%20Atomic%20Learning.pdf), [Finished Project](https://atomic-learning-systems-hackyourfuture.onrender.com/)
