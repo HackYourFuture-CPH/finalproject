@@ -19,7 +19,6 @@ They had the opportunity to work with two real clients. So the team was split in
 
 ### Team 26 (Copenhagen)
 They had three teams & projects to choose from, all within the theme of "Team Health" ([Intro](https://github.com/HackYourFuture-CPH/finalproject/blob/readme/Example%20projects/Team%2026%20(Copenhagen)/HyF%20final%20project%2C%20team%2026.pdf))
-1. Project Time Off - Proposal, Live demo, Final code
-2. Project Time Off - [Proposal](https://docs.google.com/document/d/1tUi1yoeFimWNUutzhFSSY4ikA48b9nqoC4SZK3_CDU4/edit?pli=1#heading=h.wnv93ls3sa69), [Live demo](https://time-off-nu.vercel.app/), [Final code](https://github.com/HackYourFuture-CPH/team26-TimeOff_App)
-3. Project Check-In - [Proposal](https://docs.google.com/document/d/1tUi1yoeFimWNUutzhFSSY4ikA48b9nqoC4SZK3_CDU4/edit?pli=1#heading=h.rzut036l9gqb), Live demo, [Final code](https://github.com/HackYourFuture-CPH/team26-checkin)
-4. Project Retro - [Proposal](https://docs.google.com/document/d/1tUi1yoeFimWNUutzhFSSY4ikA48b9nqoC4SZK3_CDU4/edit?pli=1#heading=h.6t89f52sg6x), Live demo, [Final code](https://github.com/HackYourFuture-CPH/team26-RetroRealm)
+1. Project Time Off - [Proposal](https://docs.google.com/document/d/1tUi1yoeFimWNUutzhFSSY4ikA48b9nqoC4SZK3_CDU4/edit?pli=1#heading=h.wnv93ls3sa69), [Live demo](https://time-off-nu.vercel.app/), [Final code](https://github.com/HackYourFuture-CPH/team26-TimeOff_App)
+2. Project Check-In - [Proposal](https://docs.google.com/document/d/1tUi1yoeFimWNUutzhFSSY4ikA48b9nqoC4SZK3_CDU4/edit?pli=1#heading=h.rzut036l9gqb), Live demo, [Final code](https://github.com/HackYourFuture-CPH/team26-checkin)
+3. Project Retro - [Proposal](https://docs.google.com/document/d/1tUi1yoeFimWNUutzhFSSY4ikA48b9nqoC4SZK3_CDU4/edit?pli=1#heading=h.6t89f52sg6x), Live demo, [Final code](https://github.com/HackYourFuture-CPH/team26-RetroRealm)
