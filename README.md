@@ -8,7 +8,11 @@ The final project is organised differently for each team, depending on the team 
 2. Client-driven projects designed in collaboration with a real client partner, built using their own template.
 
 ## Learning Goals
-- [ ] (Add some here to set clear goals/outcomes/expectations)
+- [ ] Collaboration in a team setting
+- [ ] Interpreting wireframes/prototypes into requirements
+- [ ] Writing and managing tasks as user stories
+- [ ] Working in sprints with deadlines
+- [ ] (Add some more here to set clear goals/outcomes/expectations)
 
 
 ## Examples of previous final projects
