@@ -9,10 +9,15 @@ The final project is organised differently for each team, depending on the team 
 
 ## Learning Goals
 - [ ] Collaboration in a team setting
+  - [ ] Learn to read and extend or improve other peoples code
+  - [ ] Learn to give/receive PR feedback
+  - [ ] Learn to plan and communicate technical solutions upfront before implementing
+- [ ] Develop self-guided learning skills (e.g. learn to read documetation for a framework or API)
 - [ ] Interpreting wireframes/prototypes into requirements
-- [ ] Writing and managing tasks as user stories
+- [ ] Breaking bigger problems into smaller written tasks
 - [ ] Working in sprints with deadlines
-- [ ] (Add some more here to set clear goals/outcomes/expectations)
+- [ ] Asking for help effectively and at the right time (e.g. describing problems to mentors, asking online, and the power *and* limitations of ChatGPT)
+- [ ] Deploying a completed project you are proud to showcase on your portfolio
 
 
 ## Examples of previous final projects
