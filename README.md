@@ -5,7 +5,8 @@ This module usually runs for 4-5 weeks.
 
 The final project is organised differently for each team, depending on the team responsible, mentors and the opportunities available at the time. The options could include:
 1. Mentor-designed projects and built using [HYF Project Template](https://github.com/HackYourFuture-CPH/hyf-project-template)
-2. Client-driven projects designed in collaboration with a real client partner, built using their own template.
+2. Trainee-proposed projects (e.g. [example project proposal](https://docs.google.com/document/d/11my-sb4T3UziIhjJlYOi60Afxq2dUncE8WYZ8yA-HCY/edit?tab=t.0#heading=h.ik8don4y6sav)) and built using [HYF Project Template](https://github.com/HackYourFuture-CPH/hyf-project-template)
+3. Client-driven projects designed in collaboration with a real client partner, built using their own template.
 
 ## Learning Goals
 - [ ] Collaboration in a team setting
