@@ -20,6 +20,34 @@ The final project is organised differently for each team, depending on the team 
 - [ ] Asking for help effectively and at the right time (e.g. describing problems to mentors, asking online, and the power *and* limitations of ChatGPT)
 - [ ] Deploying a completed project you are proud to showcase on your portfolio
 
+## Technical Requirements
+### Authentication & Authorization
+- Team code generation and validation
+- Basic access control *- Permissions to restrict user access depending on who they are*
+- Session management *- Maintain user state during their use of the app*
+
+### Data Validation
+- Input sanitization *- Ensure all user input is cleaned to prevent security vulnerabilities*
+- Form validation *- Validate user inputs to make sure they fit any specific criteria you have (e.g. strong passwords)*
+- Error handling *- Provide feedback on inputs if something isn't right*
+
+### API Development
+- RESTful endpoints *- Implement endpoints that adhere to REST principles*
+- Request/response handling *- Handle both making requests and handling their responses sufficiently*
+- Error responses *- Handle errors from the API  (e.g. informing the client, updating the UI appropriately)*
+
+### Database Operations
+- CRUD operations *- Create, Read, Update and Delete functions to manage your data*
+- Relationship handling *- Define and manage appropriate relationships between your data objects*
+- Data integrity *- Ensure accuracy and consistency of your data (e.g. constraints, validation)*
+
+### UI/UX Requirements
+- Responsive design *- A layout that adapts to different screen sizes*
+- Form handling *- User friendly user input and submission flows*
+- Loading states *- Visual indicators when content is not fully loaded*
+- Error states *- User friendly, actionable feedback when something goes wrong*
+- Success feedback *- Positive feedback when things are going to plan*
+
 
 ## Examples of previous final projects
 ### Team 27 (Aarhus)
