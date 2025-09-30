@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repo has been archived and is no longer in use. Please check out the new [Program](https://github.com/HackYourFuture-CPH/program) for up-to-date material.
+
 # Final Project
 This repository contains information about the final module of the program, where you will take everything you have learned so far and work together as a team to build a final project together.
 
